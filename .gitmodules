@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = 'https://github.com/mahi160/jelydash_client'
 [submodule "server"]
 	path = server
-	url = ./server
+	url = 'https://github.com/mahi160/jelydash_server
